@@ -1,0 +1,9 @@
+streamlit
+geopandas
+openpyxl
+pandas
+pyproj
+folium
+streamlit-folium
+Pillow
+pyogrio
