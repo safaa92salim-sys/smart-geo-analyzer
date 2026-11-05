@@ -1,0 +1,17 @@
+streamlit>=1.47
+geopandas
+openpyxl
+xlrd
+pandas
+numpy
+pyproj
+folium
+streamlit-folium
+Pillow
+pyogrio
+ezdxf
+pymupdf
+rapidocr-onnxruntime
+reportlab
+arabic-reshaper
+python-bidi
